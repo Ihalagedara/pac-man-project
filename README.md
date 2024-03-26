@@ -1,5 +1,5 @@
 # A Pac Man game
-The AI of the enamies are build using reenforcement learning
+The AI of the enamies are build using reenforcement learning /n
 play using the following link
 https://ihalagedara.github.io/pac-man-project/
 
